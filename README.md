@@ -29,7 +29,7 @@ The app requires an Internet connection and an API key for OpenWeatherMap (alrea
 
 ---
 
-## 🧪 The Answer to 7/6 (Modified)
+## 🧪 The Answer to 7/6
 
 Original 20 decimal places of 7 ÷ 6:  
 **1.16666666666666666666**
